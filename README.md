@@ -1,6 +1,6 @@
 # hedgehog-contracts
 
-[![Actions Status](https://github.com/keviinfoes/hedgehog-contracts/workflows/Tests/badge.svg)](https://github.com/keviinfoes/hedgehog-contracts/actions)
+[![Actions Status](https://github.com/Banq-Development/hedgehog-contracts/workflows/Tests/badge.svg)](https://github.com/Banq-Development/hedgehog-contracts/actions)
 
 contract hedgehog pre-release version to add to banq-development github
 
