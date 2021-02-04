@@ -2,7 +2,7 @@
 
 [![Actions Status](https://github.com/Banq-Development/hedgehog-contracts/workflows/Tests/badge.svg)](https://github.com/Banq-Development/hedgehog-contracts/actions)
 
-contract hedgehog pre-release version to add to banq-development github
+Core contract for Hedgehog, a fully decentralized hedging protocol. For more info check the docs here.
 
 ## Install Dependencies
 `yarn`
